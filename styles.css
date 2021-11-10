@@ -1,0 +1,129 @@
+/* TAG CSS */
+
+body
+{
+  font-family:"Kumbh Sans", sans-serif;
+  font-size:18px;
+  margin:0;
+  background-color: hsl(185, 75%, 39%);
+}
+
+hr
+{
+  position: absolute;
+  top:275.67px;
+  width: 350px;
+  height: 0;
+  border-color:hsl(0, 0%, 59%);
+  border-style:solid none none none;
+  border-width: thin;
+}
+
+
+/* CLASS CSS */
+
+
+.bg-top
+{  position: absolute;;
+  margin-left: -400px;
+  margin-top:-500px;
+}
+
+.bg-bottom
+{
+  position: absolute;
+  margin-top: -200px;
+  margin-left: 700px;
+}
+.victor-img
+{
+  border-radius:100%;
+  position:absolute;
+  border-style:solid;
+  border-width:4px;
+  border-color:white;
+  left:123px;
+  top:88px;
+
+}
+
+.top
+{
+  position:absolute;
+  border-radius: 15px 15px 0 0;
+
+}
+
+.card
+{  z-index: 1;
+  position: relative;
+  width: 350px;
+  margin:0 auto;
+  background-color: white;
+  height:375px;
+  top:110px;
+  border-radius:15px;
+
+}
+
+.name
+{
+  position: absolute;
+  color:hsl(229, 23%, 23%);
+  font-weight: bold;
+  left:108.615px;
+  top:192px;
+  font-size: 18px;
+}
+.twenty-six
+{
+  color:hsl(227, 10%, 46%);
+  font-weight: normal;
+}
+
+.London
+{
+  position: absolute;
+  color:hsl(0, 0%, 59%);
+  left: 143.275px;
+  top:224.67px;
+  font-size: 15px;
+}
+
+.follower_count
+{
+  top:300.67px;
+  left:50px;
+}
+
+.followers
+{
+  top:332.67px;
+  left: 44px;
+  font-size: 11px;
+}
+
+.like_count
+{
+  top:300.67px;
+  left:153.015px;
+}
+.likes
+{
+  top:332.67px;
+  left:162.125px;
+  font-size: 11px;
+}
+
+.photo_count
+{
+  top:300.67px;
+  left:260px;
+}
+
+.photos
+{
+  top:332.67px;
+  left:261px;
+  font-size: 11px;
+}
